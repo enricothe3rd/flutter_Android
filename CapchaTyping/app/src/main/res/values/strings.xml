@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CapchaTyping</string>
+    <string name="enter_code">Enter Code</string>
+    <string name="submit">Submit</string>
+    <string name="generated_code">Generated Code</string>
+    <string name="generate_another_key">Generate Another Key</string>
+    <string name="captcha_typing">Captcha Typing</string>
+</resources>

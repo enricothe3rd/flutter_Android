@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Sign In Your Account</string>
+    <string name="generated_code" />
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="captcha_typing">captcha_typing</string>
+    <string name="enter_code">enter_code</string>
+    <string name="submit">submit</string>
+    <string name="generate_another_key">generate_another_key</string>
+    <string name="hello_group_no">Hello Group No.</string>
+    <string name="submit1">Submit</string>
+    <string name="enter_your_name">Name:</string>
+    <string name="enter_your_password">Password:</string>
+    <string name="submit2">Login</string>
+    <string name="welcome_to_group_4_app">Welcome to Group 4 App</string>
+    <string name="hint_enter_your_name">Enter your Name</string>
+    <string name="hint_enter_your_password">Enter your Password</string>
+    <string name="captcha_typing_1">Captcha Typing</string>
+    <string name="increment_decrement">Increment/Decrement</string>
+    <string name="group_1">Group 4</string>
+    <string name="_0">0</string>
+    <string name="increment">+</string>
+    <string name="decrement">-</string>
+    <string name="todo">TODO</string>
+</resources>

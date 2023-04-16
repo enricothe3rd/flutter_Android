@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Our First Android App</string>
+    <string name="group_1">Group 4</string>
+    <string name="_0">0</string>
+    <string name="increment">+</string>
+    <string name="decrement">-</string>
+    <string name="todo">TODO</string>
+
+</resources>
